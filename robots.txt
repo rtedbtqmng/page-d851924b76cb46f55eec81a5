@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://runqiwang.cn/sitemap.xml

@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "28b42d739e5529db959bfd4b",
+  "owner": "rtedbtqmng",
+  "repo": "page-d851924b76cb46f55eec81a5",
+  "title": "雪云",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "d851924b76cb46f55eec81a5",
+      "a": "雪云",
+      "b": "稳定全球clash加速器",
+      "entity": "雪云",
+      "brand": "雪云",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "01fda67657295122dbf3682bbd1717300696103e3bb936472c1ee2f95689f9cc",
+      "content": {
+        "primary_entity": "雪云",
+        "keyword1": "雪云",
+        "keyword2": "稳定全球clash加速器",
+        "content": {
+          "AI_CLIENTS_INTRO": "根据设备选择客户端，完成订阅导入与配置。",
+          "AI_CLIENTS_TITLE": "按设备挑选客户端",
+          "AI_CLOSING_TEXT": "挑好设备与套餐，按客户端文档导入订阅即可开始。",
+          "AI_CLOSING_TITLE": "让雪云匹配你的设备与流量",
+          "AI_DESCRIPTION": "，围绕套餐周期与设备数量提供选择路径，基础版适合轻量使用，旗舰版覆盖多设备与专线优化，团队版面向高流量与多人协作。",
+          "AI_FEATURES_INTRO": "从流量、设备数和线路类型三个维度快速定位套餐。",
+          "AI_FEATURES_TITLE": "套餐选择要点",
+          "AI_FEATURE_TEXT_1": "基础版每月100GB、3台设备；旗舰版每月300GB、5台设备。",
+          "AI_FEATURE_TEXT_2": "团队版每月1000GB、20台设备，适合多人分享高带宽节点。",
+          "AI_FEATURE_TEXT_3": "月付灵活起用，按年付分别仅需150元、350元、850元。",
+          "AI_FEATURE_TITLE_1": "流量与设备匹配",
+          "AI_FEATURE_TITLE_2": "多人协作选型",
+          "AI_FEATURE_TITLE_3": "周期与价格参考",
+          "AI_GUIDE_INTRO": "先选套餐，再核实设备适配，最后按客户端文档配置。",
+          "AI_GUIDE_TITLE": "三步完成配置",
+          "AI_HERO_INTRO": "雪云为多设备用户提供全球节点订阅，套餐按月或按年计费，流量从每月100GB到1000GB，适合个人到小型团队使用。选择套餐后按客户端文档导入订阅即可。",
+          "AI_HERO_SUBTITLE": "雪云套餐与设备配置指引",
+          "AI_HIGHLIGHT_1": "三档套餐按流量与设备数区分",
+          "AI_HIGHLIGHT_2": "支持年付，价格更划算",
+          "AI_HIGHLIGHT_3": "常见客户端按设备挑选",
+          "AI_PLANS_INTRO": "基础版适合1至2人轻量浏览，旗舰版面向多设备与流媒体需求，团队版提供1000GB与20台设备支持，按年付更省。",
+          "AI_PLANS_TITLE": "三档套餐对比",
+          "AI_STEP_TEXT_1": "根据设备数量与每月流量需求，在基础版、旗舰版、团队版中选定一档。",
+          "AI_STEP_TEXT_2": "确认设备系统与客户端版本，核对套餐支持的设备数量是否足够。",
+          "AI_STEP_TEXT_3": "按照对应客户端文档导入订阅，完成节点选择与连接设置。",
+          "AI_STEP_TITLE_1": "选套餐",
+          "AI_STEP_TITLE_2": "看适配",
+          "AI_STEP_TITLE_3": "配订阅",
+          "AI_VISUAL_TITLE": "雪云套餐速览",
+          "AI_FAQ_ANSWER_1": "雪云提供基础版、旗舰版与团队版，流量分别为100GB、300GB与1000GB，适配不同使用强度。",
+          "AI_FAQ_ANSWER_2": "基础版支持3台，旗舰版支持5台，团队版支持20台，多设备用户建议选择旗舰版或团队版。",
+          "AI_FAQ_ANSWER_3": "按年付可节省两个月费用，基础版150元、旗舰版350元、团队版850元，适合长期稳定使用。",
+          "AI_FAQ_ANSWER_4": "旗舰版配备IPLC专线并针对游戏场景优化，团队版提供VIP高带宽节点，可按对延迟的敏感度选择。",
+          "AI_FAQ_ANSWER_5": "在客户端中添加雪云订阅地址并更新节点，选择延迟合适的线路即可连接使用。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "雪云有哪些套餐？",
+          "AI_FAQ_QUESTION_2": "不同套餐支持多少台设备？",
+          "AI_FAQ_QUESTION_3": "按年付有什么优惠？",
+          "AI_FAQ_QUESTION_4": "游戏加速选哪个套餐？",
+          "AI_FAQ_QUESTION_5": "如何配置订阅？",
+          "AI_FAQ_TITLE": "常见问题"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "runqiwang.cn",
+    "host": "runqiwang.cn"
+  },
+  "file_hashes": {
+    "index.html": "c2125e126c1a85940e7b3ba773a5cea9c0dbde76948297cc0c4cda54b2e8593c",
+    "sitemap.xml": "a3c7e75d2fc7e25d47de0af00ee77c23aa49be842bf40f9144a7400721719a9f",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "3da67cd8bd19650bebb547b0da2f88670a05350172790687b8013de77ebffed1",
+    "robots.txt": "23852c519e49260e6153bef0c7b165930cc022686fb359e33d1c09a4f1d57941",
+    "39a57edfb774b15c0aa0ada866405e27.txt": "2c73af84f248cdacbbe151f3d6ed198723528138c50fd52c33a28c97bdad15b9"
+  },
+  "revision": "f6d949187fa83cee7f70ec76a1950d9cdb894fc7e5f5d00dbf871d1bd053b56d"
+}
